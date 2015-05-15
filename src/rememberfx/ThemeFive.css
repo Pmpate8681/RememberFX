@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 15, 2015, 1:30:32 PM
+    Author     : Pinal
+*/
+
+.root{
+    -fx-background-color:fuchsia;
+    -fx-border-radius: 0;
+    -fx-border-width: 2;
+    -fx-border-color:black;
+}
+
+.label{
+    -fx-font-family: "Vivaldi";
+    -fx-font-size: 13pt;
+    -fx-font-weight: bold; 
+    -fx-text-fill:white;
+    
+}
+
+.button
+{ 
+    -fx-background-color:transparent;
+    -fx-font-family: "Vivaldi";
+    -fx-font-size: 10pt;
+    -fx-font-weight: bold;
+    -fx-text-fill:white;
+}
